@@ -1,2 +1,2 @@
-# -portfolio-react
+# portfolio-react
 My Portolio in React

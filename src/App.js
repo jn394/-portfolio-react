@@ -12,7 +12,7 @@ import './App.css';
 // } from "reactstrap";
 import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
-
+import Footer from './components/Footer';
 
 // import Carousel from 'react-bootstrap/Carousel';
 
@@ -28,6 +28,8 @@ class App extends Component {
         <Navbar />
         <Jumbotron />
 
+
+        <Footer />
       </div>
     );
   }
